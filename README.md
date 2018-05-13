@@ -1,4 +1,4 @@
-# How to deploy a React application In Tomcat 
+# How to deploy a React JS application In Tomcat 
 
 Deploy React JS app in Tomcat
 
