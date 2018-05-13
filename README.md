@@ -1,4 +1,5 @@
-# ReactJSTomcat8
+# How to deploy a React application In Tomcat 
+
 Deploy React JS app in Tomcat
 
 <h3>A strange behavior is noticed, if I run the app in web pack dev server same code works fine and routers works fine as well.
